@@ -19,4 +19,5 @@ Config/testthat/edition: 3
 Imports: 
     forcats,
     ggplot2,
-    e1071
+    e1071,
+    tibble
